@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React, React Native**
 
-- 👨‍💻 All of my projects are available at [https://rrc011.github.io/PortfolioAPP/](https://rrc011.github.io/PortfolioAPP/)
+- 👨‍💻 All of my projects are available at [Portafolio](https://rrc011.github.io/portfolio/)
 
-- 💬 Ask me about **angular, ionic, nestjs**
+- 💬 Ask me about **React, Angular, Vue, C#**
 
 - 📫 How to reach me **rafaelrodriguez111294@gmail.com**
 
