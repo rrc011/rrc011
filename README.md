@@ -1,26 +1,83 @@
-<h1 align="center">Hi 👋, I'm Rafael Rodriguez</h1>
-<h3 align="center">Experienced Software Developer with Over 5 Years in the Full Application Lifecycle</h3>
-<p align="center">I am a seasoned software developer with more than five years of hands-on experience in various stages of the software development lifecycle. My expertise spans across multiple domains, contributing to a diverse range of internal and external projects. I have a proven track record in designing, developing, and deploying scalable and efficient software solutions. Additionally, I have successfully managed personal projects and provided freelance services, showcasing my ability to adapt and excel in dynamic environments.</p>
+<h1 align="center">👋 Hi, I'm Rafael Rodriguez</h1>
+<h3 align="center">Senior Software Developer | Fullstack Engineer | +5 Years of Experience</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rrc011&label=Profile%20views&color=0e75b6&style=flat" alt="rrc011" /> </p>
-
-- 🔭 I’m currently working on **workshop request handling project**
-
-- 🌱 I’m currently learning **React, React Native**
-
-- 👨‍💻 All of my projects are available at [Portafolio](https://rrc011.github.io/portfolio/)
-
-- 💬 Ask me about **React, Angular, Vue, C#**
-
-- 📫 How to reach me **rafaelrodriguez111294@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rafael-rodriguez-18138715a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafael-emilio-rodriguez-cerda-18138715a" height="30" width="40" /></a>
+<p align="center">
+  Passionate about building scalable, robust, and user-friendly web applications. With over 5 years of professional experience, I specialize in full application lifecycle development — from concept to deployment — using modern technologies and agile methodologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="[tghhdfghd](https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png)" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rrc011&label=Profile%20views&color=0e75b6&style=flat" alt="rrc011" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rrc011&show_icons=true&locale=en&layout=compact" alt="rrc011" /></p>
+---
 
+### 👨‍💼 About Me
+
+I'm a Senior Fullstack Developer with over 5 years of experience crafting scalable and maintainable software solutions. I’ve contributed to logistics, enterprise, and HR systems, combining solid back-end development with clean, efficient front-end experiences. I’m passionate about solving real-world problems through clean architecture, automation, and agile collaboration.
+
+---
+
+### 🚀 Career Highlights
+
+- 🏗️ Designed and maintained core modules for ShipBob’s warehouse system, handling outbound logistics at scale using .NET, SQL Server, and Vue.
+- 📦 Spearheaded CI/CD implementation and production releases using Azure DevOps, increasing deployment efficiency across multiple teams.
+- 📊 Delivered robust, enterprise-grade solutions in logistics, HR, and education systems across Latin America and the U.S.
+
+---
+
+### 🔭 Currently Working On
+
+- A workshop request handling system
+- Learning: React Native and cross-platform mobile development
+
+---
+
+### 💬 Ask Me About
+
+.NET, C#, Angular, React, Vue, Node.js, SQL, NestJS
+
+---
+
+### 📫 Reach Me
+
+- 📧 Email: [rafaelrodriguez111294@gmail.com](mailto:rafaelrodriguez111294@gmail.com)  
+- 🌐 Portfolio: [rrc011.github.io/portfolio](https://rrc011.github.io/portfolio/)
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafael-rodriguez-18138715a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" />   
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" />        
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" />          
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" />          
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rrc011&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
